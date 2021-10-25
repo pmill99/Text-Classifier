@@ -1,0 +1,68 @@
+The question of who will regulate cutting-edge driving technologies appears to be answered.
+For years, the US government hasn't regulated driver-assist systems like Tesla's Autopilot and GM's 
+SuperCruise. Automakers can do as they please because there are no standards for these systems.
+But President Joe Biden's administration appears to want to change that, with the appointment of Missy 
+Cummings, a Duke University engineering professor who studies autonomous systems and has been critical 
+of Tesla and the federal government's handling of driver-assist systems like Autopilot. Cummings will 
+be a senior advisor for safety at the National Highway Traffic Safety Administration.
+Government's laissez faire approach to these increasingly common technologies has long led to calls for 
+better safeguards and action in the wake of headline-grabbing deaths. Cummings's appointment is the 
+latest indication of the Biden administration's desire to step in.
+The government said in June that all automakers must report crashes involving driver-assist systems. 
+It launched an investigation this August into Teslas using Autopilot that rear-ended emergency vehicles. 
+NHTSA has called for proposing a rule for automatic emergency braking, a driver-assist feature.
+Cummings's new role triggered a backlash from diehard Tesla fans. A petition circulated by fans called 
+for reviewing her appointment and received more than 21,000 signatures as of Friday morning. The attacks 
+on Cummings have at times been vitriolic, personal and hyperbolic. Cummings has been described as "the 
+hired gun for the Luddites of mediocrity" and as someone who wants to destroy Tesla. The automaker's 
+passionate fan base has been criticized in the past as being cultish and intolerant of criticism.
+The petition from Tesla's fanbase includes a critique of a 2019 tweet from Cummings that said that NHTSA 
+should require Tesla to turn off Autopilot. Cummings's Twitter account shifted to private in the wake of 
+the backlash and then was deleted.
+Tesla's fanbase also criticized Cummings for her ties to the Swedish driver-assist company Veoneer. 
+Cummings sits on the company's board of directors.
+NHTSA did not make Cummings available for an interview, but spokesperson Lucia Sanchez told CNN 
+Business that any possible conflict of interest would be resolved before Cummings starts her work at NHTSA.
+Tesla CEO Elon Musk has joined in the criticism, calling Cummings's track record "extremely biased" 
+against Tesla. Cummings responded and said she was "happy to sit down and talk with you anytime." Musk 
+did not detail what he considered biased, and did not respond to a request for comment. 
+(Tesla generally does not engage with the professional news media.) U.S. Transportation Secretary Pete 
+Buttigieg reportedly said Wednesday that Musk should call him if he has any concerns.
+In the 1990s, Cummings became one of the first women to be a pilot in the Navy. She's said in interviews 
+that she later entered academia because she saw the coming tide of autonomous technologies.
+Cummings has been called before to testify on Capitol Hill on autonomous driving. She's studied how 
+artificial intelligence will impact the future of warfare, and the challenges of boredom while people 
+use autonomous systems.
+Outside of autonomous driving, Cummings appears to have a favorable view of Tesla. Cummings has said 
+that she has a Tesla jacket she wears proudly, that she loves Tesla and can't stand car dealerships. 
+(Tesla, unlike virtually all other automakers in the United States, doesn't have a traditional, 
+franchised dealership network, but owns its own retail locations)
+"I want to do everything I can to support Tesla's business model in those aspects," Cummings said in an 
+interview earlier this year. "However, I can no longer be quiet, not as if I ever was, about the 
+problems with Autopilot and 'full self-driving."
+She's said this year that some drivers have died unnecessarily. Cummings has said that Tesla should only 
+let drivers use Autopilot on the roads for which it's been designed. That echoes a recommendation of 
+the National Transportation Safety Board, which has investigated multiple deaths of distracted drivers 
+using Tesla's Autopilot system.
+Cummings's criticisms of driver-assist technologies are not limited to Tesla. She's said that we should 
+get rid of the phrase "hands-free." General Motors describes its SuperCruise system as "hands-free"
+"Hands free connotes mind-free," Cummings said this year. "This isn't just a Tesla problem. This problem 
+is going to be increasingly in our faces as we start to see more quote unquote hands-free driving from 
+other cars."
+Cummings has also criticized Tesla for the name it gives its systems. Autonomous vehicle experts and 
+even some of Tesla's own employees have been critical of the naming as well. Cummings has said that 
+there have been fewer egregious crashes elsewhere in the world, where regulators prohibit Tesla from 
+labeling its technology "Autopilot." A German court ruled in 2020 that Tesla was not allowed to 
+advertise its driver-assist technology as "Autopilot."
+"If you're being told your car has a full self-driving chip and how many of us read the fine print? 
+It's easy to see how people can develop these incorrect mental models about what their car can do," 
+Cummings said in an interview this year.
+Tesla released its "full self-driving" software to about 1,000 people this month. The company has said 
+it plans to release it more broadly soon. Some drivers have raved about its abilities while others have 
+criticized its shortcomings. Drivers have at times had to intervene to prevent crashes or stop the car 
+from running red lights and nearly hitting pedestrians, according to videos published on YouTube that 
+CNN Business reviewed.
+Tesla has published crash data since 2018 that shows that there are fewer crashes per mile with 
+Autopilot than without Autopilot, but critics have called this an apples-and-oranges comparison. 
+Autopilot mileage is most likely to come on highways, a type of road that already has fewer crashes per 
+mile. MIT research has shown that Tesla drivers are more likely to be distracted when using Autopilot.
